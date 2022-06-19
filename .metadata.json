@@ -1,0 +1,10 @@
+[
+  {
+    "package": "gfer",
+    "oncran": true
+  },
+  {
+    "package": "hyfo",
+    "oncran": true
+  }
+]
